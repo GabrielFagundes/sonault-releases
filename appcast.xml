@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Sonault</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Mon, 13 Jul 2026 15:48:10 -0300</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.0.0/Sonault-1.0.0.zip" length="74217693" type="application/octet-stream" sparkle:edSignature="4vZLPa4PEUQajRoNPFK86OvGv1bd4Y6P8j6LJGB3dtKAwGo2LMe54rYgstSVo8EGs1lnl3gO5UcangmcZQ8zAA=="/>
+        </item>
+    </channel>
+</rss>
