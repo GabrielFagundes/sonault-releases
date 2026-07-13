@@ -3,12 +3,18 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.0.0</title>
-            <pubDate>Mon, 13 Jul 2026 15:48:10 -0300</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <title>1.0.1</title>
+            <pubDate>Mon, 13 Jul 2026 17:42:52 -0300</pubDate>
+            <sparkle:version>5</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.0.0/Sonault-1.0.0.zip" length="74217693" type="application/octet-stream" sparkle:edSignature="4vZLPa4PEUQajRoNPFK86OvGv1bd4Y6P8j6LJGB3dtKAwGo2LMe54rYgstSVo8EGs1lnl3gO5UcangmcZQ8zAA=="/>
+            <description><![CDATA[<h2>What's new in Sonault 1.0.1</h2>
+<ul>
+  <li>Sonault now stays hidden when Claude or another connected AI assistant starts it for MCP access.</li>
+  <li>Opening Sonault directly from the Dock, Finder, or menu bar continues to show the library normally.</li>
+</ul>
+]]></description>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.0.1/Sonault-1.0.1.zip" length="74218065" type="application/octet-stream" sparkle:edSignature="94Y4AYce/IeVny8n2Y5ZXJvbuWV4JNd90ZrxyIGzteniBw1uMZZ2twQNx3KmZOCYqRVeePRkh996z9DLY1e1Dw=="/>
         </item>
     </channel>
 </rss>
