@@ -3,18 +3,17 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.0.2</title>
-            <pubDate>Mon, 13 Jul 2026 17:58:35 -0300</pubDate>
-            <sparkle:version>6</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
+            <title>1.0.3</title>
+            <pubDate>Tue, 14 Jul 2026 18:51:11 -0300</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.0.2</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.0.3</h2>
 <ul>
-  <li>Connected AI assistants no longer launch Sonault when the app is closed.</li>
-  <li>Claude and other MCP clients now receive a clear connection error until Sonault is opened manually.</li>
+  <li>Sounds can now be trimmed to any duration above zero, including sub-second selections.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.0.2/Sonault-1.0.2.zip" length="74213175" type="application/octet-stream" sparkle:edSignature="6ruqIzWCEcyVj8Y1mN1dZ6RcIoIMNV8WKuAayOIQt/RJeak++si0Mk8K39VTTcDPey2fHjIUqQS0GAuYsGmQAg=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.0.3/Sonault-1.0.3.zip" length="74212368" type="application/octet-stream" sparkle:edSignature="ipAwf7f4h9e2wskK4HjMNg8ni+XTjjtB5WB11+R8WaW2o9hdezhaGUWvEuS2L/wQbVd8THaI4Y9MlYqeWcHnCQ=="/>
         </item>
     </channel>
 </rss>
