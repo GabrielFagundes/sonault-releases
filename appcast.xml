@@ -3,17 +3,17 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.0.3</title>
-            <pubDate>Tue, 14 Jul 2026 18:51:11 -0300</pubDate>
-            <sparkle:version>7</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
+            <title>1.0.4</title>
+            <pubDate>Tue, 14 Jul 2026 19:16:00 -0300</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.0.3</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.0.4</h2>
 <ul>
-  <li>Sounds can now be trimmed to any duration above zero, including sub-second selections.</li>
+  <li>Keyboard navigation in the command search now continues smoothly beyond the fourth result.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.0.3/Sonault-1.0.3.zip" length="74212368" type="application/octet-stream" sparkle:edSignature="ipAwf7f4h9e2wskK4HjMNg8ni+XTjjtB5WB11+R8WaW2o9hdezhaGUWvEuS2L/wQbVd8THaI4Y9MlYqeWcHnCQ=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.0.4/Sonault-1.0.4.zip" length="74213838" type="application/octet-stream" sparkle:edSignature="IX1P+Jc8Sa6gqASrSzAElNZtEkG/nsp21bTkjSsD4WYtL3OSIpktjirpOtANpasNILkfKBO+i5Cb59y/Xr6/DQ=="/>
         </item>
     </channel>
 </rss>
