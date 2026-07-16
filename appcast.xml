@@ -3,17 +3,19 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.0.4</title>
-            <pubDate>Tue, 14 Jul 2026 19:16:00 -0300</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.0.4</sparkle:shortVersionString>
+            <title>1.1.0</title>
+            <pubDate>Thu, 16 Jul 2026 13:53:48 -0300</pubDate>
+            <sparkle:version>9</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.0.4</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.1.0</h2>
 <ul>
-  <li>Keyboard navigation in the command search now continues smoothly beyond the fourth result.</li>
+  <li>Pasting a link now adds the download to the queue right away — no more waiting on a popup while the video details load.</li>
+  <li>The queue row fills in the title, channel, duration, and thumbnail on its own as they arrive.</li>
+  <li>Videos over the 10-minute limit now wait in the queue with a "Choose Section…" button, so you pick the part you want without holding up the rest of the queue.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.0.4/Sonault-1.0.4.zip" length="74213838" type="application/octet-stream" sparkle:edSignature="IX1P+Jc8Sa6gqASrSzAElNZtEkG/nsp21bTkjSsD4WYtL3OSIpktjirpOtANpasNILkfKBO+i5Cb59y/Xr6/DQ=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.1.0/Sonault-1.1.0.zip" length="74229115" type="application/octet-stream" sparkle:edSignature="Yebo7hQ+yQFNwJQoIRCuP3kNiRgcQA5rj5XSBRzsCpkJSreIo+jRqMT685QhWTOQiy/4M359IlSW236LOsTBCA=="/>
         </item>
     </channel>
 </rss>
