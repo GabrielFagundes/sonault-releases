@@ -3,19 +3,17 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.2.0</title>
-            <pubDate>Sat, 18 Jul 2026 11:06:48 -0300</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <title>1.2.1</title>
+            <pubDate>Sat, 18 Jul 2026 11:20:17 -0300</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>1.2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.2.0</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.2.1</h2>
 <ul>
-  <li>Select every sound at once with ⌘A, and work on many at a time: a new action bar appears whenever more than one sound is selected, with Duplicate and Delete for the whole selection.</li>
-  <li>Copy and paste sounds with ⌘C and ⌘V — paste them back into Sonault to duplicate, or drop copied files in from Finder to import.</li>
-  <li>The ⌘K search now has Sounds and Labels tabs. Press ⇥ to switch, and pick a label to filter your library to it, just like clicking it in the sidebar.</li>
+  <li>Fixed the ⌘A, ⌘C, and ⌘V shortcuts from 1.2.0, which weren't firing — Select All, Copy, and Paste now work throughout the library.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.2.0/Sonault-1.2.0.zip" length="74683645" type="application/octet-stream" sparkle:edSignature="llEESyc0LhD0ZUypKgvABwP0rRSsQIX7B+4bHKufk+kh9Ke4c/OR06JMYeV2lWpBho24zKcqM7qnT1pQiqq3BQ=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.2.1/Sonault-1.2.1.zip" length="74685410" type="application/octet-stream" sparkle:edSignature="/xkrQ54/jZabpdD+ayyRGUBoty4yMyy690U5SMAalTSezwc9PwrE6E2qm5uVFSk95fRTlM+/hDdyHln/ov09Aw=="/>
         </item>
     </channel>
 </rss>
