@@ -3,19 +3,19 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.1.0</title>
-            <pubDate>Thu, 16 Jul 2026 13:53:48 -0300</pubDate>
-            <sparkle:version>9</sparkle:version>
-            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <title>1.2.0</title>
+            <pubDate>Sat, 18 Jul 2026 11:06:48 -0300</pubDate>
+            <sparkle:version>10</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.1.0</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.2.0</h2>
 <ul>
-  <li>Pasting a link now adds the download to the queue right away — no more waiting on a popup while the video details load.</li>
-  <li>The queue row fills in the title, channel, duration, and thumbnail on its own as they arrive.</li>
-  <li>Videos over the 10-minute limit now wait in the queue with a "Choose Section…" button, so you pick the part you want without holding up the rest of the queue.</li>
+  <li>Select every sound at once with ⌘A, and work on many at a time: a new action bar appears whenever more than one sound is selected, with Duplicate and Delete for the whole selection.</li>
+  <li>Copy and paste sounds with ⌘C and ⌘V — paste them back into Sonault to duplicate, or drop copied files in from Finder to import.</li>
+  <li>The ⌘K search now has Sounds and Labels tabs. Press ⇥ to switch, and pick a label to filter your library to it, just like clicking it in the sidebar.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.1.0/Sonault-1.1.0.zip" length="74229115" type="application/octet-stream" sparkle:edSignature="Yebo7hQ+yQFNwJQoIRCuP3kNiRgcQA5rj5XSBRzsCpkJSreIo+jRqMT685QhWTOQiy/4M359IlSW236LOsTBCA=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.2.0/Sonault-1.2.0.zip" length="74683645" type="application/octet-stream" sparkle:edSignature="llEESyc0LhD0ZUypKgvABwP0rRSsQIX7B+4bHKufk+kh9Ke4c/OR06JMYeV2lWpBho24zKcqM7qnT1pQiqq3BQ=="/>
         </item>
     </channel>
 </rss>
