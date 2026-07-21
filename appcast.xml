@@ -3,20 +3,19 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.3.0</title>
-            <pubDate>Tue, 21 Jul 2026 16:51:57 -0300</pubDate>
-            <sparkle:version>12</sparkle:version>
-            <sparkle:shortVersionString>1.3.0</sparkle:shortVersionString>
+            <title>1.3.1</title>
+            <pubDate>Tue, 21 Jul 2026 19:46:56 -0300</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.3.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.3.0</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.3.1</h2>
 <ul>
-  <li>A complete purple vault redesign refreshes the library, popups, window chrome, sound details, and editing experience.</li>
-  <li>Double-click any sound card to open its details. Hover over the waveform to play instantly, then click while playing to seek.</li>
-  <li>Select sounds and press Delete to remove them, with clearer highlighting and actions for multi-selection.</li>
-  <li>A more compact 1200 × 770 default window keeps the library focused while remaining fully resizable.</li>
+  <li>A refined vault brand mark replaces the old bars beside the Sonault wordmark, matching the icon across the app and the website.</li>
+  <li>The launch splash now carries the purple vault gradient for a seamless reveal into the library.</li>
+  <li>The library sidebar stays fixed so the primary navigation is always in reach.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.3.0/Sonault-1.3.0.zip" length="74736069" type="application/octet-stream" sparkle:edSignature="y42CeP7MlOrfhMJYZZyz/Rrah5DrZned6Azmo+RRQ77gB1eQgtq8AcjcZrJU1u+y9Qvh+sCJ6GrXfs2Z363JAA=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.3.1/Sonault-1.3.1.zip" length="76527342" type="application/octet-stream" sparkle:edSignature="vI98bAzeQo+geDXFLY3dBsmv1hMeEVzy76HW1zdQp4AkUpe0nDlT/VK0EefUTWPn/TRgcrfqtqzfQ6NtwGsKDQ=="/>
         </item>
     </channel>
 </rss>
