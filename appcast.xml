@@ -3,17 +3,19 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.4.1</title>
-            <pubDate>Tue, 21 Jul 2026 23:19:49 -0300</pubDate>
-            <sparkle:version>15</sparkle:version>
-            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
+            <title>1.5.0</title>
+            <pubDate>Tue, 21 Jul 2026 23:51:15 -0300</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>1.5.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.4.1</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.5.0</h2>
 <ul>
-  <li>The sidebar's <strong>Import sound</strong> button now shares the app's primary button style, so the main action reads consistently across the app.</li>
+  <li>New <strong>Shortcuts</strong> pane in Settings lists every keyboard shortcut in the app, grouped by context.</li>
+  <li>Subtle shortcut reminders: <strong>⌘N</strong> on the Import sound button and <strong>⌘K</strong> in the search box, so the fast paths are easier to discover.</li>
+  <li>Fixed the ⌘K search palette scrolling on its own when the mouse hovered near the edge of the list — scrolling is now only by wheel or trackpad.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.4.1/Sonault-1.4.1.zip" length="76579249" type="application/octet-stream" sparkle:edSignature="AGeHkD7tdjeilf7Sg9TuY/4xhioNhARmMAZRz/36AtvdsI0we4I5E1yamsqm3MDtNaQ6E2WwtaiDN7muZlYEDw=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.5.0/Sonault-1.5.0.zip" length="76596276" type="application/octet-stream" sparkle:edSignature="eL3f5sT/9wAv7DjKv4LEK3Wc9GQu6ZnOg9DPQ4viW8As6gJtMNIuw7hS4CGYL0V81YRj4skv0E7/1GW+9H6WCQ=="/>
         </item>
     </channel>
 </rss>
