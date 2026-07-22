@@ -3,19 +3,17 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.4.0</title>
-            <pubDate>Tue, 21 Jul 2026 23:06:32 -0300</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.4.0</sparkle:shortVersionString>
+            <title>1.4.1</title>
+            <pubDate>Tue, 21 Jul 2026 23:19:49 -0300</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.4.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.4.0</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.4.1</h2>
 <ul>
-  <li>Importing sounds now opens as a full screen from a dedicated <strong>Import sound</strong> button in the sidebar, instead of a cramped pop-up.</li>
-  <li>The paste form sits beside a quick three-step walkthrough, so it's clear how a link becomes a trimmed sound in your vault.</li>
-  <li>The sound details view is rebalanced, with the title and metadata centered next to the waveform.</li>
+  <li>The sidebar's <strong>Import sound</strong> button now shares the app's primary button style, so the main action reads consistently across the app.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.4.0/Sonault-1.4.0.zip" length="76580211" type="application/octet-stream" sparkle:edSignature="djjQ+0KZE+GspPyulZLrmHSm4lvaKKj/vMt54BgE508cQZLyczbnVmqqd3NGCCdkubUYbYwmBlrwRjSR3AbMCA=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.4.1/Sonault-1.4.1.zip" length="76579249" type="application/octet-stream" sparkle:edSignature="AGeHkD7tdjeilf7Sg9TuY/4xhioNhARmMAZRz/36AtvdsI0we4I5E1yamsqm3MDtNaQ6E2WwtaiDN7muZlYEDw=="/>
         </item>
     </channel>
 </rss>
