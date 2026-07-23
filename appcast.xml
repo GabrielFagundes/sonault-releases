@@ -3,19 +3,17 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.5.1</title>
-            <pubDate>Thu, 23 Jul 2026 10:30:07 -0300</pubDate>
-            <sparkle:version>17</sparkle:version>
-            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <title>1.5.2</title>
+            <pubDate>Thu, 23 Jul 2026 11:22:41 -0300</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.5.1</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.5.2</h2>
 <ul>
-  <li>Fixed YouTube imports for videos that require JavaScript processing.</li>
-  <li>Made the download engine more reliable by shipping verified, compatible tool versions with every release.</li>
-  <li>Improved the message shown when a video is genuinely unavailable.</li>
+  <li>Fixed the floating Import button appearing in the wrong place on external displays and when moving or tiling the window between screens.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.5.1/Sonault-1.5.1.zip" length="156464657" type="application/octet-stream" sparkle:edSignature="8xeqaEjuve06kisOYq/ThwoDW9e+EDoTW0bU4+tJ0/0S9MnWSkXHHCLDCC+ZXhVfkkBSF6nENLduYEYS7DrqDw=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.5.2/Sonault-1.5.2.zip" length="156468513" type="application/octet-stream" sparkle:edSignature="bK/sVBGWdsul1ijo6cuB4JyrZ2282hf1SWkg4RBgUnQOY8EkJJCZWaWntOwOamYnUlqh3/lw6oMKWmGBZjgrCg=="/>
         </item>
     </channel>
 </rss>
