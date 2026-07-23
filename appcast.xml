@@ -3,18 +3,20 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.5.3</title>
-            <pubDate>Thu, 23 Jul 2026 12:16:36 -0300</pubDate>
-            <sparkle:version>21</sparkle:version>
-            <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+            <title>1.6.0</title>
+            <pubDate>Thu, 23 Jul 2026 16:29:27 -0300</pubDate>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.5.3</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.6.0</h2>
 <ul>
-  <li>Preview the highlighted sound from search with <strong>⌥P</strong> while the Sounds tab is active in the ⌘K palette.</li>
-  <li>Selected search results now show a clearer play button against the purple highlight.</li>
+  <li>Import only the section you need from a link: expand <strong>Only need part of it?</strong> in the import popup, enter From/To times, and download just that clip (up to 10 minutes) without fetching the full video first.</li>
+  <li>Timecode fields now insert colons as you type, so <code>1234</code> becomes <code>12:34</code>.</li>
+  <li>Range fields show inline validation as soon as both times are entered, and the Download button stays disabled until the selection is valid.</li>
+  <li>Fixed the floating Import button lagging or flickering when moving the window between displays or Spaces.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.5.3/Sonault-1.5.3.zip" length="156472780" type="application/octet-stream" sparkle:edSignature="w9IvPHucOHZ3MmSxXDrA/7Y4CEz6FhSE4vJHyydp9hGpfWzb1F/ZwD7XNUEgZPBkol0t/53eqQMy9Csd8se8Cw=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.6.0/Sonault-1.6.0.zip" length="156492891" type="application/octet-stream" sparkle:edSignature="ZtZ5Ryy9v0BAiUvI7ZNSOS8LfTpKrS3eJb9+/GCBzRui0rU83OMgaZZxhRs8o72g5pvLwbBJDOVTL2oU+rlEDw=="/>
         </item>
     </channel>
 </rss>
