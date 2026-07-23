@@ -3,17 +3,18 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.5.2</title>
-            <pubDate>Thu, 23 Jul 2026 11:22:41 -0300</pubDate>
-            <sparkle:version>18</sparkle:version>
-            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+            <title>1.5.3</title>
+            <pubDate>Thu, 23 Jul 2026 12:16:36 -0300</pubDate>
+            <sparkle:version>21</sparkle:version>
+            <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.5.2</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.5.3</h2>
 <ul>
-  <li>Fixed the floating Import button appearing in the wrong place on external displays and when moving or tiling the window between screens.</li>
+  <li>Preview the highlighted sound from search with <strong>⌥P</strong> while the Sounds tab is active in the ⌘K palette.</li>
+  <li>Selected search results now show a clearer play button against the purple highlight.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.5.2/Sonault-1.5.2.zip" length="156468513" type="application/octet-stream" sparkle:edSignature="bK/sVBGWdsul1ijo6cuB4JyrZ2282hf1SWkg4RBgUnQOY8EkJJCZWaWntOwOamYnUlqh3/lw6oMKWmGBZjgrCg=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.5.3/Sonault-1.5.3.zip" length="156472780" type="application/octet-stream" sparkle:edSignature="w9IvPHucOHZ3MmSxXDrA/7Y4CEz6FhSE4vJHyydp9hGpfWzb1F/ZwD7XNUEgZPBkol0t/53eqQMy9Csd8se8Cw=="/>
         </item>
     </channel>
 </rss>
