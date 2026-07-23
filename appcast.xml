@@ -3,20 +3,18 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.6.0</title>
-            <pubDate>Thu, 23 Jul 2026 16:29:27 -0300</pubDate>
-            <sparkle:version>22</sparkle:version>
-            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <title>1.6.1</title>
+            <pubDate>Thu, 23 Jul 2026 17:39:32 -0300</pubDate>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.6.0</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.6.1</h2>
 <ul>
-  <li>Import only the section you need from a link: expand <strong>Only need part of it?</strong> in the import popup, enter From/To times, and download just that clip (up to 10 minutes) without fetching the full video first.</li>
-  <li>Timecode fields now insert colons as you type, so <code>1234</code> becomes <code>12:34</code>.</li>
-  <li>Range fields show inline validation as soon as both times are entered, and the Download button stays disabled until the selection is valid.</li>
-  <li>Fixed the floating Import button lagging or flickering when moving the window between displays or Spaces.</li>
+  <li>Fixed a crash when opening the section fields in the menu bar's quick import panel.</li>
+  <li>The section From/To fields now stay open in the quick import panel, so the window no longer jumps around while you fill them in.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.6.0/Sonault-1.6.0.zip" length="156492891" type="application/octet-stream" sparkle:edSignature="ZtZ5Ryy9v0BAiUvI7ZNSOS8LfTpKrS3eJb9+/GCBzRui0rU83OMgaZZxhRs8o72g5pvLwbBJDOVTL2oU+rlEDw=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.6.1/Sonault-1.6.1.zip" length="156493996" type="application/octet-stream" sparkle:edSignature="PIJo+04yXq1vAuSUjjfCYibcO+QV5Cs/v86Y6qdQ8DpsfkMctUOC/pe1+1+qUCfMaFOROAformRwPN2C3iSNAA=="/>
         </item>
     </channel>
 </rss>
