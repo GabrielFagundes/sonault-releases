@@ -3,21 +3,22 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.7.0</title>
-            <pubDate>Mon, 27 Jul 2026 14:00:23 -0300</pubDate>
-            <sparkle:version>24</sparkle:version>
-            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <title>1.8.0</title>
+            <pubDate>Mon, 27 Jul 2026 16:56:47 -0300</pubDate>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.7.0</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.8.0</h2>
 <ul>
-  <li>Big libraries are dramatically faster. Playing or favouriting a sound used to make Sonault re-read your entire library first — with thousands of sounds that was a visible stall on every click. It no longer happens.</li>
-  <li>Opening your library is several times quicker, and search and <kbd>⌘K</kbd> now keep up as you type instead of lagging a keystroke behind.</li>
-  <li>Scrolling the list view stays smooth no matter how many sounds you have: rows are now built as they come into view, the way the grid already worked.</li>
-  <li>Waveforms are loaded only for the sounds actually on screen, so a large library no longer spends time and memory on shapes you can't see.</li>
-  <li>Fixed a rare case where renaming a sound could quietly undo a favourite, or lose the fact that you had just played it.</li>
+  <li><strong>Credits.</strong> Sounds imported from YouTube or Freesound now carry a ready-made credit line — the original title, the creator, and the link — with a button that copies it straight into a video description or a game's credits screen. Open the arrow next to the button to see exactly what will be copied.</li>
+  <li><strong>Mark what you owe.</strong> Each sound can be set to <em>no credit needed</em> or <em>credit required</em>, with room for the licence or receipt alongside it. Sounds you haven't decided about stay untouched — Sonault never guesses your rights for you.</li>
+  <li>Sounds that need a credit show a small <strong>@</strong> next to the details button, so you can see at a glance what still owes an attribution. <kbd>⌘K</kbd> has a Needs Credit tab that lists exactly those.</li>
+  <li>Select several sounds to mark them all at once, or copy every credit line together — enough to assemble a whole project's credits in one go.</li>
+  <li>Dragging a sound into another app now exports it under the name you gave it in Sonault, instead of an internal filename.</li>
+  <li>Tooltips appear noticeably faster throughout the app, and buttons on the sign-in and account screens now respond across their whole area rather than only on the text.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.7.0/Sonault-1.7.0.zip" length="156540124" type="application/octet-stream" sparkle:edSignature="I0SJ3+3Fl/g5W/lo6T1mxK9bZNGB/Jxy9e26DkcNAqiuYbP8rLjTlkuI9lqiI4qSaMpGhKZgPiSEwykFwwNmAQ=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.8.0/Sonault-1.8.0.zip" length="156641755" type="application/octet-stream" sparkle:edSignature="gh4BWSrXURLe7dxKDCjUPhEjr4hesAnLzdIot672aP/Vahv07jPHTvEOgDM9P0KYVhVJBQ6R+S+jGA5sA7u1Bg=="/>
         </item>
     </channel>
 </rss>
