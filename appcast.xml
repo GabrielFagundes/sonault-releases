@@ -3,18 +3,21 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.6.1</title>
-            <pubDate>Thu, 23 Jul 2026 17:39:32 -0300</pubDate>
-            <sparkle:version>23</sparkle:version>
-            <sparkle:shortVersionString>1.6.1</sparkle:shortVersionString>
+            <title>1.7.0</title>
+            <pubDate>Mon, 27 Jul 2026 14:00:23 -0300</pubDate>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.6.1</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.7.0</h2>
 <ul>
-  <li>Fixed a crash when opening the section fields in the menu bar's quick import panel.</li>
-  <li>The section From/To fields now stay open in the quick import panel, so the window no longer jumps around while you fill them in.</li>
+  <li>Big libraries are dramatically faster. Playing or favouriting a sound used to make Sonault re-read your entire library first — with thousands of sounds that was a visible stall on every click. It no longer happens.</li>
+  <li>Opening your library is several times quicker, and search and <kbd>⌘K</kbd> now keep up as you type instead of lagging a keystroke behind.</li>
+  <li>Scrolling the list view stays smooth no matter how many sounds you have: rows are now built as they come into view, the way the grid already worked.</li>
+  <li>Waveforms are loaded only for the sounds actually on screen, so a large library no longer spends time and memory on shapes you can't see.</li>
+  <li>Fixed a rare case where renaming a sound could quietly undo a favourite, or lose the fact that you had just played it.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.6.1/Sonault-1.6.1.zip" length="156493996" type="application/octet-stream" sparkle:edSignature="PIJo+04yXq1vAuSUjjfCYibcO+QV5Cs/v86Y6qdQ8DpsfkMctUOC/pe1+1+qUCfMaFOROAformRwPN2C3iSNAA=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.7.0/Sonault-1.7.0.zip" length="156540124" type="application/octet-stream" sparkle:edSignature="I0SJ3+3Fl/g5W/lo6T1mxK9bZNGB/Jxy9e26DkcNAqiuYbP8rLjTlkuI9lqiI4qSaMpGhKZgPiSEwykFwwNmAQ=="/>
         </item>
     </channel>
 </rss>
