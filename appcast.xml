@@ -3,22 +3,24 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.8.0</title>
-            <pubDate>Mon, 27 Jul 2026 16:56:47 -0300</pubDate>
-            <sparkle:version>25</sparkle:version>
-            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <title>1.8.1</title>
+            <pubDate>Wed, 29 Jul 2026 10:29:39 -0300</pubDate>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.8.0</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.8.1</h2>
 <ul>
-  <li><strong>Credits.</strong> Sounds imported from YouTube or Freesound now carry a ready-made credit line — the original title, the creator, and the link — with a button that copies it straight into a video description or a game's credits screen. Open the arrow next to the button to see exactly what will be copied.</li>
-  <li><strong>Mark what you owe.</strong> Each sound can be set to <em>no credit needed</em> or <em>credit required</em>, with room for the licence or receipt alongside it. Sounds you haven't decided about stay untouched — Sonault never guesses your rights for you.</li>
-  <li>Sounds that need a credit show a small <strong>@</strong> next to the details button, so you can see at a glance what still owes an attribution. <kbd>⌘K</kbd> has a Needs Credit tab that lists exactly those.</li>
-  <li>Select several sounds to mark them all at once, or copy every credit line together — enough to assemble a whole project's credits in one go.</li>
-  <li>Dragging a sound into another app now exports it under the name you gave it in Sonault, instead of an internal filename.</li>
-  <li>Tooltips appear noticeably faster throughout the app, and buttons on the sign-in and account screens now respond across their whole area rather than only on the text.</li>
+  <li><kbd>⌥P</kbd> now previews the highlighted sound in <kbd>⌘K</kbd>'s <strong>Needs Credit</strong> tab, the same way it already did under Sounds.</li>
+  <li>Fixed a blinking cursor that appeared in the middle of the sign-in screen instead of inside the code boxes.</li>
+  <li>Pasting a batch of links no longer starts every download at once — Sonault now works through them a few at a time, so a big paste doesn't bog the app down.</li>
+  <li>Cancelling a download now stops it immediately, even if you cancel the instant it starts.</li>
+  <li>Deleting a sound now reliably frees its disk space, including sounds removed by a connected AI assistant.</li>
+  <li>Importing a multi-part recording is now all-or-nothing: if one segment fails, the rest are no longer left pointing at missing audio.</li>
+  <li>Turning the MCP server off in Settings now closes connections that were already open, instead of leaving them running.</li>
+  <li>Duplicating a sound and browsing large libraries are both noticeably faster.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.8.0/Sonault-1.8.0.zip" length="156641755" type="application/octet-stream" sparkle:edSignature="gh4BWSrXURLe7dxKDCjUPhEjr4hesAnLzdIot672aP/Vahv07jPHTvEOgDM9P0KYVhVJBQ6R+S+jGA5sA7u1Bg=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.8.1/Sonault-1.8.1.zip" length="156664862" type="application/octet-stream" sparkle:edSignature="lGg2ZlpwNRfupEXo0589jQgO2i2q5NXaUpcCKXSaVxlH704qoPDtyWfWYWbFHBB4E/1w3gRbtkwvkv1NoNiNAg=="/>
         </item>
     </channel>
 </rss>
