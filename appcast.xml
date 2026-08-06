@@ -3,24 +3,18 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.8.1</title>
-            <pubDate>Wed, 29 Jul 2026 10:29:39 -0300</pubDate>
-            <sparkle:version>26</sparkle:version>
-            <sparkle:shortVersionString>1.8.1</sparkle:shortVersionString>
+            <title>1.9.0</title>
+            <pubDate>Thu, 06 Aug 2026 20:30:33 -0300</pubDate>
+            <sparkle:version>27</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.8.1</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.9.0</h2>
 <ul>
-  <li><kbd>⌥P</kbd> now previews the highlighted sound in <kbd>⌘K</kbd>'s <strong>Needs Credit</strong> tab, the same way it already did under Sounds.</li>
-  <li>Fixed a blinking cursor that appeared in the middle of the sign-in screen instead of inside the code boxes.</li>
-  <li>Pasting a batch of links no longer starts every download at once — Sonault now works through them a few at a time, so a big paste doesn't bog the app down.</li>
-  <li>Cancelling a download now stops it immediately, even if you cancel the instant it starts.</li>
-  <li>Deleting a sound now reliably frees its disk space, including sounds removed by a connected AI assistant.</li>
-  <li>Importing a multi-part recording is now all-or-nothing: if one segment fails, the rest are no longer left pointing at missing audio.</li>
-  <li>Turning the MCP server off in Settings now closes connections that were already open, instead of leaving them running.</li>
-  <li>Duplicating a sound and browsing large libraries are both noticeably faster.</li>
+  <li><strong>Send us feedback right from the app</strong> — the new speech-bubble button at the bottom of the sidebar opens a quick feedback form. Your message reaches us instantly, tied to your account, no email required.</li>
+  <li>Fixed a small ghost square that could flash over the splash and sign-in screens on some Macs.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.8.1/Sonault-1.8.1.zip" length="156664862" type="application/octet-stream" sparkle:edSignature="lGg2ZlpwNRfupEXo0589jQgO2i2q5NXaUpcCKXSaVxlH704qoPDtyWfWYWbFHBB4E/1w3gRbtkwvkv1NoNiNAg=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.9.0/Sonault-1.9.0.zip" length="156704763" type="application/octet-stream" sparkle:edSignature="Ki1gcoKjIi03iHsY6lS8Gh7wcAzLuCnnHMjNyJw9Qg98+AIIX36h56oNjUci4PTYNNl37msid1FHTPCWUTfRDw=="/>
         </item>
     </channel>
 </rss>
