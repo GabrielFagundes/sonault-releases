@@ -3,18 +3,19 @@
     <channel>
         <title>Sonault</title>
         <item>
-            <title>1.9.0</title>
-            <pubDate>Thu, 06 Aug 2026 20:30:33 -0300</pubDate>
-            <sparkle:version>27</sparkle:version>
-            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <title>1.10.0</title>
+            <pubDate>Tue, 11 Aug 2026 00:06:26 -0300</pubDate>
+            <sparkle:version>28</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-            <description><![CDATA[<h2>What's new in Sonault 1.9.0</h2>
+            <description><![CDATA[<h2>What's new in Sonault 1.10.0</h2>
 <ul>
-  <li><strong>Send us feedback right from the app</strong> — the new speech-bubble button at the bottom of the sidebar opens a quick feedback form. Your message reaches us instantly, tied to your account, no email required.</li>
-  <li>Fixed a small ghost square that could flash over the splash and sign-in screens on some Macs.</li>
+  <li><strong>Starter sounds for new libraries.</strong> An empty library now offers a hand-picked pack of 16 free-license sounds: interface pops, impacts, and jingles by Kenney (CC0), rain and birdsong ambiences from Wikimedia Commons, and Apollo 13's famous "Houston, we've had a problem" radio call from NASA. You see the licenses before anything is added, every sound arrives with its creator, source link, and license already in its credit fields, and the whole pack sits under a Starter label so removing it later is one click.</li>
+  <li><strong>More places to import from.</strong> Paste links from the Internet Archive, Wikimedia Commons, or any direct audio URL, alongside the existing YouTube and Freesound support.</li>
+  <li>In the ⌘K search palette, pressing Enter now filters the library by your query, and the selected sound always stays in view.</li>
 </ul>
 ]]></description>
-            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.9.0/Sonault-1.9.0.zip" length="156704763" type="application/octet-stream" sparkle:edSignature="Ki1gcoKjIi03iHsY6lS8Gh7wcAzLuCnnHMjNyJw9Qg98+AIIX36h56oNjUci4PTYNNl37msid1FHTPCWUTfRDw=="/>
+            <enclosure url="https://github.com/GabrielFagundes/sonault-releases/releases/download/v1.10.0/Sonault-1.10.0.zip" length="158896316" type="application/octet-stream" sparkle:edSignature="Nuqq5j4JTodAJ91un7PQVvWHkLN2uXVjFiBPkiHvEN+nIap+gHE6mkh39mEA5IGdiwYJ6dO8At1y/yA7goOcCQ=="/>
         </item>
     </channel>
 </rss>
